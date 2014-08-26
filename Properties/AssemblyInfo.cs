@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("ValidateMultimediaFilesize")]
-[assembly: AssemblyCopyright("Copyright © Toyota 2014")]
+[assembly: AssemblyCopyright("Copyright © Curlette 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
