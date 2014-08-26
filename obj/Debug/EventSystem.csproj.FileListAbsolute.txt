@@ -1,0 +1,5 @@
+C:\RC\samples\tridion-practice\tridion-practice-27a2700defb0\ImageSizeChecker\obj\Debug\EventSystem.csprojResolveAssemblyReference.cache
+C:\RC\samples\tridion-practice\tridion-practice-27a2700defb0\ImageSizeChecker\bin\Debug\EventSystemComponentSave.dll
+C:\RC\samples\tridion-practice\tridion-practice-27a2700defb0\ImageSizeChecker\bin\Debug\EventSystemComponentSave.pdb
+C:\RC\samples\tridion-practice\tridion-practice-27a2700defb0\ImageSizeChecker\obj\Debug\EventSystemComponentSave.dll
+C:\RC\samples\tridion-practice\tridion-practice-27a2700defb0\ImageSizeChecker\obj\Debug\EventSystemComponentSave.pdb
